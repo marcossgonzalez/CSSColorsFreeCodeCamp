@@ -1,0 +1,35 @@
+p{
+    text-align: right;
+}
+h1{
+    text-align: center;
+}
+.marker{
+    height: 25px;
+    width: 200px;
+    margin:10px auto;
+}
+.one{
+    height: 25px;
+    width: 200px;
+    margin:10px auto;
+    background-color: rgb(255,0,0);
+}
+
+.two{
+    height: 25px;
+    width: 200px;
+    margin:10px auto;
+    background-color: rgb(0,255,0)
+}
+
+.three{
+    height: 25px;
+    width: 200px;
+    margin:10px auto;
+    background-color: rgb(0,0,255)
+}
+
+.container{
+    background-color: rgb(0, 0, 0);
+}
